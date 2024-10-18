@@ -2,8 +2,8 @@
 
 #### I am a graduate student majoring in Computer Science and Communications Engineering
 
-🔭 Hi! My name is Kein Yamada, currently enrolled as a graduate student of Fundamental Science and Engineering in Waseda University. 
-My research theme is image contrast and object detection. <br>
+🔭 Hi! My name is Kein Yamada, currently enrolled as a graduate student of Fundamental Science and Engineering in Waseda University. <br>
+   My research theme is image contrast and object detection. <br>
 🧠 As mentioned in my profile, I am strongly interested in learning new things, especially knowledge outside of my scope. <br>
 🤖 My proficiency lies in the understanding of image recognition and deep learning. <br>
 🌱 Most comfortable with Python/C++/Java/Javascript! <br>
