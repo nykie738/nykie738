@@ -31,3 +31,26 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </br>
 
+## 📚 Publications:
+- Accuracy Consistency of Object Detection With Contrast Reduction by Pixel Value Limitation<br>
+[ [IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html) ]
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315359)
+
+- Data Augmentation with 3D-rendered Models for Livestock Recognition Using Drone Footage<br>
+[ [IEVC 2024](https://www.iieej.org/en/ievc2024/) ]
+
+- Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
+[ [IEEE ICIP 2024](https://2024.ieeeicip.org/) ]
+[IEEE Xplore](https://ieeexplore.ieee.org/document/10647785), [arXiv](https://arxiv.org/abs/2403.04173)
+
+- Image Coding for Machines with Object Region Learning <br>
+[ [IEEE CCNC 2024](https://ccnc2024.ieee-ccnc.org/) ]
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10454864), [arXiv](https://arxiv.org/abs/2308.13984)
+
+- VVC Extension Scheme for Object Detection Using Contrast Reduction<br>
+[ [IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html) ]
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315373), [arXiv](https://arxiv.org/abs/2305.18782)
+
+- Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features<br> 
+[ [IEEE IICAIET 2023](http://iicaiet.ieeesabah.org/iicaiet2023.html) ]
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10291646), [arXiv](https://arxiv.org/abs/2304.00689)
