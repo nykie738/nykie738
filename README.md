@@ -2,7 +2,7 @@
 
 #### I am a graduate student majoring in Computer Science and Communications Engineering
 
-🔭 Hi! My name is Kein Yamada, currently enrolled as a graduate student of Waseda University researching in image contrast and object detection. <br>
+🔭 Hi! My name is Kein Yamada, currently enrolled as a graduate student of Fundamental Science and Engineering in Waseda University, researching about image contrast and object detection. <br>
 🧠 As mentioned in my profile, I am strongly interested in learning new things, especially knowledge outside of my scope. <br>
 🤖 My proficiency lies in the understanding of image recognition and deep learning. <br>
 🌱 Most comfortable with Python/C++/Java/Javascript! <br>
@@ -10,20 +10,15 @@
 - I lived in Japan for 6 years, lived outside of Japan for 18 years
 - I am fluent in both English and Japanese
 - I helped with writing many English research papers for Japanese students
+- I am a big fan of baseball (both NPB and MLB)
 
-
-<!-- This content will not appear in the rendered Markdown 
-
-🚀 Check out my projects and join me on this journey!
-
-Skills: React / Next.js / Python / Javascript / Typescript / Java / Ruby
-
-- 🔭 I’m currently working on https://github.com/JStreet-Sensei/jstreet-frontend
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippoquattrocchi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kein-yamada-416213246)
+[![GoogleScholar](https://img.shields.io/badge/Papers-Google%20Scholar-blue?style=flat-square)]()
 
+<!--
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
