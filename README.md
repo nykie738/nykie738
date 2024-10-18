@@ -6,7 +6,7 @@
 🧠 As mentioned in my profile, I am strongly interested in learning new things, especially knowledge outside of my scope. <br>
 🤖 My proficiency lies in the understanding of image recognition and deep learning. <br>
 🌱 Most comfortable with Python/C++/Java/Javascript! <br>
-⭐️ FUN FACT: <br>
+⭐️ FUN FACTS: <br>
 - I lived in Japan for 6 years, lived outside of Japan for 18 years
 - I am fluent in both English and Japanese
 - I helped with writing many English research papers for Japanese students
