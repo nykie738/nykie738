@@ -8,7 +8,7 @@
 🤖 My proficiency lies in the understanding of image recognition and deep learning. <br>
 🌱 Most comfortable with Python/C++/Java/Javascript! <br>
 ⭐️ FUN FACTS: <br>
-- I lived in Japan for 6 years, lived outside of Japan for 18 years
+- I lived in Japan for 5+ years, lived outside of Japan for 15+ years
 - I am fluent in both English and Japanese
 - I helped with writing many English research papers for Japanese students
 - I am a big fan of baseball (both NPB and MLB)
